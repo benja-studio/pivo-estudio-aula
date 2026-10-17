@@ -1,0 +1,24 @@
+include: package:flutter_lints/flutter.yaml
+
+analyzer:
+  exclude:
+    - "**/*.g.dart"
+    - "**/*.freezed.dart"
+  errors:
+    avoid_print: error
+    prefer_const_constructors: warning
+    prefer_const_literals_to_create_immutables: warning
+
+linter:
+  rules:
+    - avoid_print
+    - prefer_const_constructors
+    - prefer_const_constructors_in_immutables
+    - prefer_const_declarations
+    - prefer_const_literals_to_create_immutables
+    - unawaited_futures
+    - unnecessary_const
+    - unnecessary_new
+    - prefer_single_quotes
+    - sort_child_properties_last
+    - use_super_parameters
