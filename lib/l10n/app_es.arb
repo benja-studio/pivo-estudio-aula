@@ -1,0 +1,110 @@
+{
+  "@@locale": "es",
+  "appName": "Aula",
+  "appTagline": "Tu vida académica organizada, offline y sin fricción",
+
+  "onboardingWelcomeTitle": "Organiza tu carrera sin esfuerzo",
+  "onboardingWelcomeSubtitle": "Tus parciales, temas a estudiar, notas y promedios en un solo lugar. 100% privado y offline.",
+  "onboardingStudentInfoTitle": "Cuéntanos sobre tus estudios",
+  "onboardingStudentInfoSubtitle": "Estos datos personalizarán tu experiencia y cálculos de materias.",
+  "onboardingProfilePhotoTitle": "Foto de perfil",
+  "onboardingProfilePhotoSubtitle": "Elegí una foto para reconocerte o usá tu avatar por defecto.",
+  "onboardingPreferencesTitle": "Tus preferencias",
+  "onboardingPreferencesSubtitle": "Elegí tu escala de notas y ajustá cómo quieres que se vea Aula.",
+
+  "fullNameLabel": "Nombre y apellido",
+  "fullNameError": "Por favor ingresa tu nombre",
+  "careerLabel": "Carrera",
+  "careerError": "Por favor ingresa tu carrera",
+  "institutionLabel": "Instituto o Universidad",
+  "institutionError": "Por favor ingresa tu institución",
+  "academicLevelLabel": "Año o nivel que cursas (ej. 3er año)",
+  "studentIdLabel": "Legajo o matrícula (opcional)",
+  "emailLabel": "Email de contacto (opcional)",
+  "currentPeriodLabel": "Período académico actual",
+  "currentPeriodHint": "Ej: 1er cuatrimestre 2026",
+
+  "themeSystem": "Sistema",
+  "themeLight": "Claro",
+  "themeDark": "Oscuro",
+  "accentColorLabel": "Color de acento",
+  "gradeScaleLabel": "Escala de notas",
+  "passingGradeLabel": "Nota mínima de aprobación",
+  "notificationsEnable": "Activar recordatorios de exámenes",
+
+  "buttonContinue": "Continuar",
+  "buttonStart": "Comenzar en Aula",
+  "buttonSkip": "Omitir por ahora",
+  "buttonSave": "Guardar",
+  "buttonCancel": "Cancelar",
+  "buttonDelete": "Eliminar",
+  "buttonUndo": "Deshacer",
+
+  "navHome": "Inicio",
+  "navCalendar": "Calendario",
+  "navSubjects": "Materias",
+  "navGrades": "Notas",
+  "navSettings": "Ajustes",
+
+  "homeUpcomingExams": "Próximas evaluaciones",
+  "homeThisWeek": "Esta semana",
+  "homeOverdueExams": "Evaluaciones pendientes de nota",
+  "homeOverallAverage": "Promedio general",
+  "homePeriodProgress": "Progreso del período",
+  "homeDaysLeft": "{days, plural, =0{¡Es hoy!} =1{Falta 1 día} other{Faltan {days} días}}",
+  "@homeDaysLeft": {
+    "placeholders": {
+      "days": {
+        "type": "int"
+      }
+    }
+  },
+
+  "subjectsTitle": "Materias",
+  "subjectsEmpty": "Aún no tienes materias agregadas",
+  "subjectsAdd": "Nueva materia",
+  "subjectStatusTaking": "Cursando",
+  "subjectStatusRegular": "Regular",
+  "subjectStatusPassed": "Aprobada",
+  "subjectStatusFailed": "Libre",
+  "subjectStatusRetaking": "Recursando",
+
+  "examsTitle": "Evaluaciones",
+  "examsEmpty": "No hay evaluaciones registradas",
+  "examsAdd": "Nueva evaluación",
+  "examTypeMidterm": "Parcial",
+  "examTypeRetake": "Recuperatorio",
+  "examTypeFinal": "Final",
+  "examTypeAssignment": "Trabajo Práctico",
+  "examTypeQuiz": "Quiz / Control",
+  "examTypeOral": "Examen Oral",
+
+  "examStatusPending": "Pendiente",
+  "examStatusTaken": "Rendido",
+  "examStatusPassed": "Aprobado",
+  "examStatusFailed": "Desaprobado",
+  "examStatusAbsent": "Ausente",
+
+  "topicStatusNotStarted": "Sin empezar",
+  "topicStatusStudying": "Estudiando",
+  "topicStatusReviewed": "Repasado",
+  "topicStatusMastered": "Dominado",
+
+  "gradesTitle": "Notas y Promedios",
+  "gradesAverage": "Promedio acumulado",
+  "gradesCalculator": "Calculadora ¿Qué nota necesito?",
+  "gradesTargetAverage": "Promedio objetivo",
+
+  "searchPlaceholder": "Buscar materias, exámenes, notas o temas...",
+  "searchNoResults": "No se encontraron resultados",
+
+  "settingsTitle": "Ajustes",
+  "settingsProfile": "Perfil del estudiante",
+  "settingsAppearance": "Apariencia y tema",
+  "settingsReduceMotion": "Reducir movimiento",
+  "settingsSecurity": "Seguridad y bloqueo",
+  "settingsBackup": "Respaldo y restauración",
+  "settingsDangerZone": "Zona de peligro",
+  "settingsDeleteAll": "Borrar todos los datos",
+  "settingsDeleteAllConfirm": "Esta acción borrará de manera permanente todas tus materias, notas y evaluaciones locales. No se puede deshacer a menos que tengas un archivo de respaldo. ¿Deseas continuar?"
+}
